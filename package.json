@@ -15,5 +15,10 @@
     "eslint": "^8.55.0",
     "eslint-plugin-react": "^7.33.2",
     "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "lint:fix": "eslint --fix ."
   }
 }
