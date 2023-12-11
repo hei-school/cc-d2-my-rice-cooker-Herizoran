@@ -1,0 +1,20 @@
+# IntelliJ
+.idea
+# VS Code
+.vscode/
+node_modules/
+# Visual Studio
+d-debug
+.vs
+CMakeSettings.json
+out
+
+# Compiled class file C++
+*.exe
+
+# Compiled class file Java
+*.class
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
