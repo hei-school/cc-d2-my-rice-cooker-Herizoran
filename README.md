@@ -13,16 +13,16 @@ The Rice Cooker App is a simple command-line application that simulates the func
 * Deactivate the keep warm function.
 * Turn off.
 
-#### Bug
-* The linter doesn't work properly, which need to be fixed next time
 
 ## Installation
-The run the project, run the script below:
+
+Compile the program
 ```bash
-npm install
+csc RiceCooker.cs
 ```
+Run the RiceCooker app
 ```bash
-tsc RiceCooker.ts
+RiceCooker.exe
 ```
 ## License
 
